@@ -2,6 +2,7 @@
   <img alt="Vue logo" src="./assets/logo.png" />
   <p>Commit feito na branch release1</p>
   <p>Commit feito na branch bic-1</p>
+  <p>Commit feito na branch bic-2</p>
   <HelloWorld msg="Welcome to Your Vue.js App" />
 </template>
 
